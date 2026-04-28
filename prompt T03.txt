@@ -1,0 +1,18 @@
+//prompt pertama
+sekarang buatlah sebuah sistem yang mendukung operasional kafetaria IT Del..
+jadi IT memiliki kafetaria yang berfungsi menjual berbagai jenis barang, makanan dan minuman, serta dapat memprint. 
+di kafetaris IT Del menjual barang seperti perlengkapam tulis, pin del, baju del, aksesoris del, dan masih banyak lagi. 
+untuk makanannya berupa jajanan kemasan seperti keripik 
+untuk minumannya berupa kopi, minuman rasa yang ada dalam cup langsung
+untuk print dapat langsung ke kafetaria
+
+untuk sistem pembayarannya dapat secara cash maupun secara qris
+kafetaria juga merupakan kafe kejujuran, dimana jika penjaga tidak ada, namun mahasiswa ingin membeli kopi yang ada dalam mini kulkasnya maka mahasiswa dapat langsung mengambil dan membayarnya lewat qris sesuai harga yang tertera. 
+
+buatlah sebuah solusi berupa code dalam bahsa java untuk program tersebut, yang mendukung operasionalnya sehari hari agar dapat berjalan lancar. 
+gunakan Driver3.java dan Model3.java
+
+kafetaria ini disebut dengan "delshop"
+
+//prompt kedua
+buatlah program ini membaca kode dari sebuah barang ini, lalu menentukan jumlah yang dibeli dan otomatis menghitung total harga dan sistem pembayaran 

@@ -1,0 +1,31 @@
+//prompt pertama
+sekarang, buatlah program untuk menyimpan data stok barang dalam sebuah rak gudang yang tersusun rapi. 
+jadi setiap barang akan dipisahkan berdasarkan input:
+1. jumlah total data (N)
+2. deret stok (s1, s2, ..., sN)
+3. kode kategori barang
+
+contohnya:
+untuk dasi sd ada  22 pcs
+untuk gula ada 85 pcs
+untuk rok pramuka ada 5 pcs
+untuk minyak ada 120 pcs 
+
+jadi, buatlah sebuah solusi berupa code dalam bahasa java, yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+gunakan Driver2.java dan Model2.java
+
+//prompt kedua
+input yang diharapkan seperti ini 
+1. jumlah total data (N) 
+2. deret stok (s1, s2, ..., sN) 
+3. kode kategori barang 
+
+output yang diharapkan 
+total data = 4 
+dasi sd = 22 pcs 
+gula = 85 pcs 
+rok pramuka = 5 
+pcs minyak = 120 pcs
+
+//prompt ketiga 
+dasi sd dan rok pramuka masuk kategori pakaian sedangkan untuk gula dan minyak masuk kategori sembako

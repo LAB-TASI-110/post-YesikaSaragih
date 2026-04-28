@@ -1,0 +1,36 @@
+//prompt pertama
+buatlah sebuah program "del express" yaitu jasa pengiriman yang sistemnya transparan dan peritungannya otomatis.
+daftar ongkos kirim tertera sebagai berikut:
+kode kota/nama kota/ongkos kirim(kg)/keterangan
+mdn/medan/8000/dalam pulau
+blg/balige/5000/dalam pulau
+jkt/jakarta/12000/luar pulau
+sby/surabaya/13000/luar pulau
+
+namun terdapat sebuah promo yang menarik:
+1. dengan syarat total berat pengiriman lebih dari 10kg maka akan diskon sebesar 10%
+2. pengiriman ke kota luar pulau akan mendapat asuransi gratis
+
+dalam contoh program ini ada ucok dan butet yang menggunakan sistem ini,
+berat paket butet 1kg 
+berat paket ucok 3/2 x berat paket butet
+
+jadi, sistem ini bekerja secara otomatis, petugas hanya perlu memasukkan kode kota tujuan beserta berat paket milik butet, maka sistem akan menghitung seluruh biaya pengiriman termasuk berat oaket milik ucok
+
+maka, buatlah solus berupa kode dalam bahasa java, dengan contoh input 
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+dan output yang diharapkan adalah struk pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh.
+gunakan driver1.java dan model1.java
+
+//prompt kedua
+tolong jelaskan mengapa code tersebut masih error, dan tolong gunakan huruf kapital pada awal penulisan Driver dan Model, buatkan code terbaru yang tepat sesuai input dan output diharapapkan
+
+
+
